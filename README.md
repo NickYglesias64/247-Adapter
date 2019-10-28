@@ -1,2 +1,2 @@
 # 247-Adapter
-Adapter Design Pattern with Team
+Adapter Design Pattern with Screaming Gophers
