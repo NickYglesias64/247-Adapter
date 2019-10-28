@@ -10,7 +10,7 @@ public class Knight implements Warrior {
     /**
      * prints out when defending
      */
-    public void fly() {
+    public void defend() {
         System.out.println("Defending: We must protect the castle!");
     }
 }
